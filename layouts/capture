@@ -1,9 +1,13 @@
 {
-  "tracker_capture_dungeon": {
+  "tracker_capture_entrance": {
     "type": "container",
     "content": {
       "type": "itemgrid"
       "h_alignment": "center",
       "item_margin": "1,2",
       "rows": [
-        [ "
+        [ "cap_con", "cap_con_castle", "cap_ToF" ]
+      ]
+    }
+  }
+}
