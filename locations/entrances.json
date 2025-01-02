@@ -1,22 +1,28 @@
 [
     {
-        "name": "Coneria Town Entrance",
-        "short_name": "Coneria",
-        "access_rules": [ ],
-        "sections": [
+        "name": "I: Inner Sea",
+        "color": "#808080",
+        "children": [
             {
-                "name": "Town",
-                "capture_item": true,
-                "capture_item_layout": "tracker_capture_entrance",
-                "item_count": 1
-            }
-        ],
-        "map_locations": [
-            {
-                "map": "entrances",
-                "x": 1840,
-                "y": 1800,
-            }
+                "name": "Coneria Town Entrance",
+                "short_name": "Coneria",
+                "access_rules": [ ],
+                "sections": [
+                    {
+                        "name": "Town",
+                        "capture_item": true,
+                        "capture_item_layout": "tracker_capture_entrance",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "entrances",
+                        "x": 1840,
+                        "y": 1800,
+                    }
+                ]
+            },
         ]
-    },
+    }
 ]
