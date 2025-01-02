@@ -1,0 +1,54 @@
+{
+    "name": "Tracker by jat2980",
+    "packages": [
+        {
+            "name": "Final Fantasy 1 Randomizer",
+            "author": "jat2980, DarkmoonEX, HaateXIII, Mister Ibis, meklin89",
+            "game_name": "Final Fantasy",
+            "flags": [
+                "map",
+                "pins",
+                "chathud",
+                "autotracker"  
+            ],
+            "version": "1.4.0.5",
+            "uid": "ff1_rando_mek",
+            "link": "https://meklin89.github.io/ff1_rando_mek.zip",
+            "required_app_version": "2.3.0.0",
+            "variants": [
+                {
+                    "name": "Standard Map Tracker",
+                    "flags": [
+                        "map",
+                        "pins",
+                        "chathud",
+                        "autotracker"
+                    ]
+                },
+                {
+                    "name": "Standard Tracker",
+                    "flags": [
+                        "chathud",
+                        "autotracker"
+                    ]
+                },
+                {
+                    "name": "Shard Hunt Map Tracker",
+                    "flags": [
+                        "map",
+                        "pins",
+                        "chathud",
+                        "autotracker"
+                    ]
+                },
+                {
+                    "name": "Shard Hunt Tracker",
+                    "flags": [
+                        "chathud",
+                        "autotracker"
+                    ]
+                }
+            ]
+        }
+    ]
+}
