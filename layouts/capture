@@ -1,0 +1,9 @@
+{
+  "tracker_capture_dungeon": {
+    "type": "container",
+    "content": {
+      "type": "itemgrid"
+      "h_alignment": "center",
+      "item_margin": "1,2",
+      "rows": [
+        [ "
