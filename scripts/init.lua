@@ -16,6 +16,7 @@ Tracker:AddMaps("maps/maps.json")
 ScriptHost:LoadScript("scripts/logic.lua")
 Tracker:AddLocations("locations/locations.json")
 Tracker:AddLocations("locations/incentives.json")
+Tracker:AddLocations("locations/entrances.json")
 
 Tracker:AddLayouts("layouts/shared.json")
 if Tracker.ActiveVariantUID == "shardHunt" then
