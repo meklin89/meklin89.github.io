@@ -11,7 +11,8 @@
                         "name": "Town",
                         "capture_item": true,
                         "capture_item_layout": "tracker_capture_entrance",
-                        "item_count": 1
+                        "item_count": 1,
+                        "hosted_item": "startingZone"
                     }
                 ],
                 "map_locations": [
