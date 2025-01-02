@@ -5,7 +5,7 @@
         "children": [
             {
                 "name": "Coneria Town Entrance",
-                "access_rules": [ ],
+                "access_rules": [],
                 "sections": [
                     {
                         "name": "Town",
@@ -19,7 +19,7 @@
                     {
                         "map": "entrances",
                         "x": 1840,
-                        "y": 1800,
+                        "y": 1800
                     }
                 ]
             }
