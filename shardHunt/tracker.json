@@ -114,13 +114,6 @@
                                 "type": "map",
                                 "maps": [ "overworld" ]
                             }
-                        },
-                        {
-                            "title" : "Entrances",
-                            "content" : {
-                                "type" : "map",
-                                "maps" : [ "entrances" ]
-                            }
                         }
                     ]
                 }
@@ -215,13 +208,6 @@
                             "content": {
                                 "type": "map",
                                 "maps": [ "overworld" ]
-                            }
-                        },
-                        {
-                            "title" : "Entrances",
-                            "content" : {
-                                "type" : "map",
-                                "maps" : [ "entrances" ]
                             }
                         }
                     ]
