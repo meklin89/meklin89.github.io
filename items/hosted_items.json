@@ -156,11 +156,5 @@
         "type": "toggle",
         "img": "images/misc/chaos.png",
         "codes": "chaos"
-    },
-    {
-        "name": "Starting Zone",
-        "type": "toggle",
-        "img": "images/misc/gil_shop_item.png",
-        "codes": "startingZone"
     }
 ]
