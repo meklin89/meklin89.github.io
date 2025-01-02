@@ -1,158 +1,158 @@
 [
     {
-        "name" : "Northern Docks",
-        "type" : "toggle",
-        "img" : "images/northernDocks.png",
-        "codes" : "northernDocks",
-		"disabled_img" : "images/noNorthernDocks.png"
-    },
-    {
-        "name" : "Ryukahn Desert Dock",
-        "type" : "toggle",
-        "img" : "images/luffyDock.png",
-        "codes" : "luffyDock",
-		"disabled_img" : "images/noLuffyDock.png"
-    },
-    {
-        "name" : "Highway to Ordeals",
-        "type" : "toggle",
-        "img" : "images/hwyToOrdeals.png",
-        "codes" : "hwyOrdeals",
-		"disabled_img" : "images/noHwyToOrdeals.png"
-    },
-    {
-        "name" : "River to Melmond",
-        "type" : "toggle",
-        "img" : "images/melmondRiver.png",
-        "codes" : "melmondRiver",
-		"disabled_img" : "images/noMelmondRiver.png"
-    },
-    {
         "name" : "Open Progression",
         "type" : "progressive",
         "stages" : [
             {
-                "img" : "images/openProgression.png",
+                "img" : "images/flags/openProgression.png",
                 "codes" : "progressionFlag,openProgression"
             },
             {
-                "img" : "images/extendedOpen.png",
+                "img" : "images/flags/extendedOpen.png",
                 "codes" : "progressionFlag,extendedOpen"
             }
         ]
     },
     {
+        "name" : "Northern Docks",
+        "type" : "toggle",
+        "img" : "images/flags/northernDocks.png",
+        "codes" : "northernDocks",
+		"disabled_img" : "images/flags/noNorthernDocks.png"
+    },
+    {
+        "name" : "Ryukahn Desert Dock",
+        "type" : "toggle",
+        "img" : "images/flags/luffyDock.png",
+        "codes" : "luffyDock",
+		"disabled_img" : "images/flags/noLuffyDock.png"
+    },
+    {
         "name" : "Cardia Island (main) Dock",
         "type" : "toggle",
-        "img" : "images/cardiaDock.png",
+        "img" : "images/flags/cardiaDock.png",
         "codes" : "cardiaDock",
 		"disabled_img" : "images/noCardiaDock.png"
     },
     {
-        "name" : "Gaia Mountain Pass",
-        "type" : "toggle",
-        "img" : "images/gaiaMountain.png",
-        "codes" : "gaiaMountain",
-		"disabled_img" : "images/noGaiaMountain.png"
-    },
-    {
         "name" : "Lefein River Dock",
         "type" : "toggle",
-        "img" : "images/lefeinRiver.png",
+        "img" : "images/flags/lefeinRiver.png",
         "codes" : "lefeinRiver",
-		"disabled_img" : "images/noLefeinRiver.png"
+		"disabled_img" : "images/flags/noLefeinRiver.png"
     },
     {
         "name" : "Bridge to Lefein",
         "type" : "toggle",
-        "img" : "images/lefeinBridge.png",
+        "img" : "images/flags/lefeinBridge.png",
         "codes" : "lefeinBridge",
-		"disabled_img" : "images/noLefeinBridge.png"
+		"disabled_img" : "images/flags/noLefeinBridge.png"
+    },
+    {
+        "name" : "Gaia Mountain Pass",
+        "type" : "toggle",
+        "img" : "images/flags/gaiaMountain.png",
+        "codes" : "gaiaMountain",
+		"disabled_img" : "images/flags/noGaiaMountain.png"
+    },
+    {
+        "name" : "Highway to Ordeals",
+        "type" : "toggle",
+        "img" : "images/flags/hwyToOrdeals.png",
+        "codes" : "hwyOrdeals",
+		"disabled_img" : "images/flags/noHwyToOrdeals.png"
+    },
+    {
+        "name" : "River to Melmond",
+        "type" : "toggle",
+        "img" : "images/flags/melmondRiver.png",
+        "codes" : "melmondRiver",
+		"disabled_img" : "images/flags/noMelmondRiver.png"
     },
     {
         "name": "NPCs are Incentive",
         "type": "toggle",
         "active": true,
-        "img": "images/king.png",
+        "img": "images/locations/king.png",
         "codes": "npcsAreIncentive"
     },
     {
         "name": "Fetch Quests are Incentive",
         "type": "toggle",
-        "img": "images/matoya.png",
+        "img": "images/locations/matoya.png",
         "codes": "fetchQuestsAreIncentive"
-    },
-    {
-        "name": "Coneria Locked is Incentive",
-        "type": "toggle",
-        "img": "images/coneriaLocked.png",
-        "codes": "coneriaLockedIsIncentive"
-    },
-    {
-        "name": "Marsh is Incentive",
-        "type": "toggle",
-        "img": "images/marsh.png",
-        "codes": "marshIsIncentive"
-    },
-    {
-        "name": "Marsh Locked is Incentive",
-        "type": "toggle",
-        "img": "images/marshLocked.png",
-        "codes": "marshLockedIsIncentive"
     },
     {
         "name": "Ice Cave is Incentive",
         "type": "toggle",
-        "img": "images/iceCave.png",
+        "img": "images/locations/iceCave.png",
         "codes": "iceCaveIsIncentive"
     },
     {
         "name": "Ordeals is Incentive",
         "type": "toggle",
-        "img": "images/ordeals.png",
+        "img": "images/locations/ordeals.png",
         "codes": "ordealsIsIncentive"
+    },
+    {
+        "name": "Marsh is Incentive",
+        "type": "toggle",
+        "img": "images/locations/marsh.png",
+        "codes": "marshIsIncentive"
     },
     {
         "name": "Titan's Trove is Incentive",
         "type": "toggle",
-        "img": "images/titan.png",
+        "img": "images/locations/titan.png",
         "codes": "titansTroveIsIncentive"
     },
     {
         "name": "Earth is Incentive",
         "type": "toggle",
-        "img" : "images/earth.png",
+        "img" : "images/locations/earth.png",
         "codes" : "earthIsIncentive"
     },
     {
         "name": "Volcano is Incentive",
         "type": "toggle",
-        "img": "images/redD.png",
+        "img": "images/locations/redD.png",
         "codes": "volcanoIsIncentive"
     },
     {
         "name": "Sky is Incentive",
         "type": "toggle",
-        "img" : "images/skyPalace.png",
+        "img" : "images/locations/skyPalace.png",
         "codes": "skyIsIncentive"
 
     },
     {
         "name": "Sea Shrine is Incentive",
         "type": "toggle",
-        "img" : "images/seaShrine.png",
+        "img" : "images/locations/seaShrine.png",
         "codes" : "seaIsIncentive"
+    },
+    {
+        "name": "Coneria Locked is Incentive",
+        "type": "toggle",
+        "img": "images/locations/coneriaLocked.png",
+        "codes": "coneriaLockedIsIncentive"
+    },
+    {
+        "name": "Marsh Locked is Incentive",
+        "type": "toggle",
+        "img": "images/locations/marshLocked.png",
+        "codes": "marshLockedIsIncentive"
     },
     {
         "name": "Cardia Island is Incentive",
         "type": "progressive",		
         "stages" : [
             {
-                "img" : "images/cardiaIncentive.png",
+                "img" : "images/locations/cardiaIncentive.png",
                 "codes" : "cardiaIsIncentive"
             },
             {
-                "img" : "images/BahamutHoard.png",
+                "img" : "images/flags/BahamutHoard.png",
                 "codes" : "BahamutHoard"
             }
         ]
