@@ -7,7 +7,7 @@
       "item_margin": "1,2",
       "item_size": 40,
       "rows": [
-        [ "cap_con", "cap_con_castle", "cap_ToF" ]
+        [ "cap_con_town", "cap_con_castle", "cap_ToF" ]
       ]
     }
   }
