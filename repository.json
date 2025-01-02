@@ -11,10 +11,10 @@
                 "chathud",
                 "autotracker"  
             ],
-            "version": "1.4.0.5",
+            "version": "2.0.0.0",
             "uid": "ff1_rando_mek",
             "link": "https://meklin89.github.io/ff1_rando_mek.zip",
-            "required_app_version": "2.3.0.0",
+            "required_app_version": "2.3.8.19",
             "variants": [
                 {
                     "name": "Standard Map Tracker",
