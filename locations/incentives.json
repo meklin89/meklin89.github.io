@@ -24,6 +24,14 @@
 						"access_rules" : [ "garland" ],
 						"visibility_rules" : [ "npcsAreIncentive" ],
 						"hosted_item" : "sara"
+					},
+					{
+						"name" : "Coneria Castle Entrance",
+						"access_rules" : [],
+						"capture_item" : true,
+						"capture_item_layout" : "tracker_capture_entrance",
+						"item_count" : 1,
+						"hosted_item" : "startingZone"
 					}
 				],
 				"map_locations" : [
