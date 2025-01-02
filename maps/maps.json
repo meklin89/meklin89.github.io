@@ -10,5 +10,11 @@
         "location_size": 80,
         "location_border_thickness": 10,
         "img": "images/overworld.png"
+    },
+    {
+        "name": "NOverworld",
+        "location_size": 80,
+        "location_border_thickness": 10,
+        "img": "images/nooverworldmap.jpg"
     }
 ]
