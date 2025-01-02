@@ -3,7 +3,7 @@
   {
     "name": "Coneria",
     "type": "static",
-    "img": "images/capture/entrances/coneria.png",
+    "img": "images/capture/coneria.png",
     "capturable": true,
     "codes": "cap_con_town"
   },
@@ -11,14 +11,14 @@
   {
     "name": "Coneria Castle",
     "type": "static",
-    "img": "images/capture/entrances/coneriaCastle.png",
+    "img": "images/capture/coneriaCastle.png",
     "capturable": true,
     "codes": "cap_con_castle"
   },
   {
     "name": "Temple of Fiends",
     "type": "static",
-    "img": "images/capture/entrances/ToF.png",
+    "img": "images/capture/ToF.png",
     "capturable": true,
     "codes": "cap_ToF"
   }
