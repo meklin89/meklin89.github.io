@@ -1,10 +1,25 @@
 [
-  // Entrances
+  // Towns
   {
     "name": "Coneria",
     "type": "static",
     "img": "images/capture/entrances/coneria.png",
     "capturable": true,
-    "codes": "cap_coneria"
+    "codes": "cap_con_town"
+  },
+  // Entrances
+  {
+    "name": "Coneria Castle",
+    "type": "static",
+    "img": "images/capture/entrances/coneriaCastle.png
+    "capturable": true,
+    "codes": "cap_con_castle"
+  },
+  {
+    "name": "Temple of Fiends",
+    "type": "static",
+    "img": "images/capture/entrances/ToF.png
+    "capturable": true,
+    "codes": "cap_ToF"
   }
 ]
