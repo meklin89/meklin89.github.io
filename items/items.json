@@ -2,19 +2,19 @@
     {
         "name": "Mystic Key",
         "type": "toggle",
-        "img": "images/key.png",
+        "img": "images/items/key.png",
         "codes": "key"
     },
     {
         "name": "Lute",
         "type": "toggle",
-        "img": "images/lute.png",
+        "img": "images/items/lute.png",
         "codes": "lute"
     },
     {
         "name": "Garland",
         "type": "toggle",
-        "img": "images/garland.png",
+        "img": "images/items/garland.png",
         "codes": "garland"
     },
     {
@@ -22,11 +22,11 @@
         "type": "progressive",
         "stages": [
             {
-                "img": "images/adamant.png",
+                "img": "images/items/adamant.png",
                 "codes": "adamant"
             },
             {
-                "img": "images/adamant-done.png",
+                "img": "images/items/adamant-done.png",
                 "codes": "adamant,adamantDone"
             }
         ]
@@ -36,11 +36,11 @@
         "type": "progressive",
         "stages": [
             {
-                "img": "images/tnt.png",
+                "img": "images/items/tnt.png",
                 "codes": "tnt"
             },
             {
-                "img": "images/tnt-done.png",
+                "img": "images/items/tnt-done.png",
                 "codes": "tnt,tntDone"
             }
         ]
@@ -48,49 +48,49 @@
     {
         "name": "Rod",
         "type": "toggle",
-        "img": "images/rod.png",
+        "img": "images/items/rod.png",
         "codes": "rod"
     },
     {
         "name": "Oxyale",
         "type": "toggle",
-        "img": "images/oxyale.png",
+        "img": "images/items/oxyale.png",
         "codes": "oxyale"
     },
     {
         "name": "Chime",
         "type": "toggle",
-        "img": "images/chime.png",
+        "img": "images/items/chime.png",
         "codes": "chime"
     },
     {
         "name": "Cube",
         "type": "toggle",
-        "img": "images/cube.png",
+        "img": "images/items/cube.png",
         "codes": "cube"
     },
     {
         "name": "Bridge",
         "type": "toggle",
-        "img": "images/bridge.png",
+        "img": "images/items/bridge.png",
         "codes": "bridge"
     },
     {
         "name": "Ship",
         "type": "toggle",
-        "img": "images/ship.png",
+        "img": "images/items/ship.png",
         "codes": "ship"
     },
     {
         "name": "Canal",
         "type": "toggle",
-        "img": "images/canal-yes.png",
+        "img": "images/items/canal-yes.png",
         "codes": "canal"
     },
     {
         "name": "Canoe",
         "type": "toggle",
-        "img": "images/canoe.png",
+        "img": "images/items/canoe.png",
         "codes": "canoe"
     },
     {
@@ -98,11 +98,11 @@
         "type": "progressive",
         "stages": [
             {
-                "img": "images/floater.png",
+                "img": "images/items/floater.png",
                 "codes": "floater,inactiveFloater"
             },
             {
-                "img": "images/airship.png",
+                "img": "images/items/airship.png",
                 "codes": "floater,airship"
             }
         ]
@@ -112,11 +112,11 @@
         "type": "progressive",
         "stages": [
             {
-                "img": "images/crown.png",
+                "img": "images/items/crown.png",
                 "codes": "crown"
             },
             {
-                "img": "images/crown-done.png",
+                "img": "images/items/crown-done.png",
                 "codes": "crown,crownDone"
             }
         ]
@@ -126,11 +126,11 @@
         "type": "progressive",
         "stages": [
             {
-                "img": "images/crystal.png",
+                "img": "images/items/crystal.png",
                 "codes": "crystal"
             },
             {
-                "img": "images/crystal-done.png",
+                "img": "images/items/crystal-done.png",
                 "codes": "crystal,crystalDone"
             }
         ]
@@ -140,11 +140,11 @@
         "type": "progressive",
         "stages": [
             {
-                "img": "images/herb.png",
+                "img": "images/items/herb.png",
                 "codes": "herb"
             },
             {
-                "img": "images/herb-done.png",
+                "img": "images/items/herb-done.png",
                 "codes": "herb,herbDone"
             }
         ]
@@ -154,11 +154,11 @@
         "type": "progressive",
         "stages": [
             {
-                "img": "images/ruby.png",
+                "img": "images/items/ruby.png",
                 "codes": "ruby"
             },
             {
-                "img": "images/ruby-done.png",
+                "img": "images/items/ruby-done.png",
                 "codes": "ruby,titan"
             }
         ]
@@ -168,11 +168,11 @@
         "type": "progressive",
         "stages": [
             {
-                "img": "images/tail.png",
+                "img": "images/items/tail.png",
                 "codes": "tail"
             },
             {
-                "img": "images/tail-done.png",
+                "img": "images/items/tail-done.png",
                 "codes": "tail,bahamut"
             }
         ]
@@ -182,15 +182,15 @@
         "type": "progressive",
         "stages": [
             {
-                "img": "images/slab-found.png",
+                "img": "images/items/slab-found.png",
                 "codes": "slab"
             },
             {
-                "img": "images/slab-translated.png",
+                "img": "images/items/slab-translated.png",
                 "codes": "slab,slabTranslated,unne"
             },
             {
-                "img": "images/slab-translated-done.png",
+                "img": "images/items/slab-translated-done.png",
                 "codes": "slab,slabDone,slabTurnIn"
             }
         ]
@@ -200,11 +200,11 @@
         "type": "progressive",
         "stages": [
             {
-                "img": "images/bottle.png",
+                "img": "images/items/bottle.png",
                 "codes": "bottle"
             },
             {
-                "img": "images/bottle-done.png",
+                "img": "images/items/bottle-done.png",
                 "codes": "bottle,bottlepopped"
             }
         ]
@@ -215,11 +215,11 @@
         "type": "progressive",
         "stages": [
             {
-                "img": "images/orb-earth-no.png",
+                "img": "images/items/orb-earth-no.png",
                 "codes": "earthorb"
             },
             {
-                "img": "images/orb-earth-yes.png",
+                "img": "images/items/orb-earth-yes.png",
                 "codes": "earthorb,earthorblit"
             }
         ]
@@ -230,11 +230,11 @@
         "type": "progressive",
         "stages": [
             {
-                "img": "images/orb-fire-no.png",
+                "img": "images/items/orb-fire-no.png",
                 "codes": "fireorb"
             },
             {
-                "img": "images/orb-fire-yes.png",
+                "img": "images/items/orb-fire-yes.png",
                 "codes": "fireorb,fireorblit"
             }
         ]
@@ -245,11 +245,11 @@
         "type": "progressive",
         "stages": [
             {
-                "img": "images/orb-water-no.png",
+                "img": "images/items/orb-water-no.png",
                 "codes": "waterorb"
             },
             {
-                "img": "images/orb-water-yes.png",
+                "img": "images/items/orb-water-yes.png",
                 "codes": "waterorb,waterorblit"
             }
         ]
@@ -260,11 +260,11 @@
         "type": "progressive",
         "stages": [
             {
-                "img": "images/orb-air-no.png",
+                "img": "images/items/orb-air-no.png",
                 "codes": "airorb"
             },
             {
-                "img": "images/orb-air-yes.png",
+                "img": "images/items/orb-air-yes.png",
                 "codes": "airorb,airorblit"
             }
         ]
@@ -275,44 +275,44 @@
         "allow_disabled": false,
         "stages": [
             {
-                "img": "images/loose0.png",
+                "img": "images/loose/loose0.png",
                 "img_mods": "@disabled",
                 "codes": "loose"
             },
             {
-                "img": "images/loose1.png",
+                "img": "images/loose/loose1.png",
                 "codes": "loose"
             },
             {
-                "img": "images/loose2.png",
+                "img": "images/loose/loose2.png",
                 "codes": "loose"
             },
             {
-                "img": "images/loose3.png",
+                "img": "images/loose/loose3.png",
                 "codes": "loose"
             },
             {
-                "img": "images/loose4.png",
+                "img": "images/loose/loose4.png",
                 "codes": "loose"
             },
             {
-                "img": "images/loose5.png",
+                "img": "images/loose/loose5.png",
                 "codes": "loose"
             },
             {
-                "img": "images/loose6.png",
+                "img": "images/loose/loose6.png",
                 "codes": "loose"
             },
             {
-                "img": "images/loose7.png",
+                "img": "images/loose/loose7.png",
                 "codes": "loose"
             },
             {
-                "img": "images/loose8.png",
+                "img": "images/loose/loose8.png",
                 "codes": "loose"
             },
             {
-                "img": "images/loose9.png",
+                "img": "images/loose/loose9.png",
                 "codes": "loose"
             }
         ]
