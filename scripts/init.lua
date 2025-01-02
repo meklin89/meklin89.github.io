@@ -6,6 +6,7 @@ print("Starting up scipts")
 Tracker:AddItems("items/items.json")
 Tracker:AddItems("items/hosted_items.json")
 Tracker:AddItems("items/flags.json")
+Tracker:AddItems("items/capture.json")
 
 if Tracker.ActiveVariantUID == "shardHunt" or Tracker.ActiveVariantUID == "shardHuntNoMap" then
   Tracker:AddItems("shardHunt/shards.json")
@@ -19,6 +20,7 @@ Tracker:AddLocations("locations/incentives.json")
 Tracker:AddLocations("locations/entrances.json")
 
 Tracker:AddLayouts("layouts/shared.json")
+Tracker:AddLayouts("layouts/capture.json")
 if Tracker.ActiveVariantUID == "shardHunt" then
   Tracker:AddLayouts("shardHunt/tracker.json")
   Tracker:AddLayouts("shardHunt/broadcast.json")
