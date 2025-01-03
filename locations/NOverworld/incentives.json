@@ -8,12 +8,6 @@
 				"access_rules" : [],
 				"sections" : [
 					{
-						"name" : "I: Coneria Castle Incentive",
-						"access_rules" : [ "key" ],
-						"visibility_rules" : [ "coneriaLockedIsIncentive" ],
-						"hosted_item" : "coneriaLocked"
-					},
-					{
 						"name" : "I: King",
 						"access_rules" : [],
 						"visibility_rules" : [ "npcsAreIncentive" ],
@@ -29,8 +23,27 @@
 				"map_locations" : [
 					{
 						"map" : "incentives",
-						"x" : 1840,
-						"y" : 1740
+						"x" : 807,
+						"y" : 580
+					}
+				]
+			},
+			{
+				"name": I: Coneria Castle Locked",
+				"access_rules": [ "key" ],
+				"sections": [
+					{
+						"name" : "I: Coneria Castle Incentive",
+						"access_rules" : [ "key" ],
+						"visibility_rules" : [ "coneriaLockedIsIncentive" ],
+						"hosted_item" : "coneriaLocked"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "incentives",
+						"x": 821,
+						"y": 543
 					}
 				]
 			},
@@ -47,8 +60,8 @@
 				"map_locations" : [
 					{
 						"map" : "incentives",
-						"x" : 1540,
-						"y" : 1300
+						"x" : 590,
+						"y" : 600
 					}
 				]
 			},
@@ -68,8 +81,8 @@
 						"map_locations" : [
 							{
 								"map" : "incentives",
-								"x" : 1540,
-								"y" : 1220
+								"x" : 590,
+								"y" : 555
 							}
 						]
 					}
