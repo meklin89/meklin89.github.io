@@ -81,7 +81,7 @@
 							"title" : "Chest Locations",
 							"content" : {
 								"type" : "map",
-								"maps" : [ "overworld" ]
+								"maps" : [ "locations" ]
 							}
 						}
 					]
@@ -164,7 +164,7 @@
 							"title" : "Chest Locations",
 							"content" : {
 								"type" : "map",
-								"maps" : [ "overworld" ]
+								"maps" : [ "locations" ]
 							}
 						}
 					]
