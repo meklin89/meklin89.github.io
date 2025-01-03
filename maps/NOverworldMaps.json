@@ -3,12 +3,12 @@
         "name": "overworld",
         "location_size": 80,
         "location_border_thickness": 10,
-        "img": "images/overworld.png"
+        "img": "images/nooverworldmap.jpg"
     },
     {
         "name": "incentives",
         "location_size": 80,
         "location_border_thickness": 10,
-        "img": "images/overworld.png"
+        "img": "images/nooverworldmap.jpg"
     }
 ]
