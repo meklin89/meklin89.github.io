@@ -14,7 +14,7 @@ end
 if Tracker.ActiveVariantUID == "NOverworld" or TrackerActiveVariantUID == "shardHuntNOverworld" then
   Tracker:AddMaps(maps/NOverworldMaps.json"
 else
-  Tracker:AddMaps("maps/standardMaps.json")
+  Tracker:AddMaps("maps/maps.json")
 end
 
 ScriptHost:LoadScript("scripts/logic.lua")
