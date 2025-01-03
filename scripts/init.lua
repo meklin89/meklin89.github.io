@@ -11,7 +11,7 @@ if Tracker.ActiveVariantUID == "shardHunt" or Tracker.ActiveVariantUID == "shard
   Tracker:AddItems("shardHunt/shards.json")
 end
 
-if Tracker.ActiveVariantUID == "NOverworld" or TrackerActiveVariantUID == "shardHuntNOverworld" then
+if Tracker.ActiveVariantUID == "NOverworld" or Tracker.ActiveVariantUID == "shardHuntNOverworld" then
   Tracker:AddMaps("maps/NOverworldMaps.json")
 else
   Tracker:AddMaps("maps/maps.json")
@@ -19,7 +19,7 @@ end
 
 ScriptHost:LoadScript("scripts/logic.lua")
 
-if Tracker.ActiveVariantUID == "NOverworld" or TrackerActiveVariantUID == "shardHuntNOverworld" then
+if Tracker.ActiveVariantUID == "NOverworld" or Tracker.ActiveVariantUID == "shardHuntNOverworld" then
     Tracker:AddLocations("locations/NOverworld/locations.json")
     Tracker:AddLocations("locations/NOverworld/incentives.json")
 else
