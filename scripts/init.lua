@@ -12,7 +12,7 @@ if Tracker.ActiveVariantUID == "shardHunt" or Tracker.ActiveVariantUID == "shard
 end
 
 if Tracker.ActiveVariantUID == "NOverworld" or TrackerActiveVariantUID == "shardHuntNOverworld" then
-  Tracker:AddMaps(maps/NOverworldMaps.json")
+  Tracker:AddMaps("maps/NOverworldMaps.json")
 else
   Tracker:AddMaps("maps/maps.json")
 end
