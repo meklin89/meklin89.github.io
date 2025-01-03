@@ -1,6 +1,6 @@
 [
 	{
-		"name" : "I: Inner Sea",
+		"name" : "I: Starting Area",
 		"color" : "#808080",
 		"children" : [
 			{
@@ -90,7 +90,7 @@
 			},
 			{
 				"name" : "I: Dwarf Cave",
-				"access_rules" : [ "openProgression", "ship", "airship", "extendedOpen" ],
+				"access_rules" : [],
 				"sections" : [
 					{
 						"name" : "I: Smithy McBeardSmith",
@@ -128,13 +128,7 @@
 			},
 			{
 				"name" : "I: Matoya's Cave",
-				"access_rules" : [
-					"bridge",
-					"ship",
-					"airship",
-					"extendedOpen,canoe",
-					"openProgression,canoe"
-				],
+				"access_rules" : [],
 				"sections" : [
 					{
 						"name" : "I: Matoya",
@@ -172,13 +166,7 @@
 			},
 			{
 				"name" : "I: Pravoka",
-				"access_rules" : [
-					"bridge",
-					"ship",
-					"airship",
-					"extendedOpen,canoe",
-					"openProgression,canoe"
-				],
+				"access_rules" : [],
 				"sections" : [
 					{
 						"name" : "I: Bikke",
@@ -197,7 +185,7 @@
 			},
 			{
 				"name" : "I: Marsh Cave",
-				"access_rules" : [ "openProgression,canoe", "ship", "airship", "extendedOpen" ],
+				"access_rules" : [],
 				"sections" : [
 					{
 						"name" : "I: Marsh Incentive",
@@ -216,7 +204,7 @@
 			},
 			{
 				"name" : "I: Marsh Cave",
-				"access_rules" : [ "openProgression,canoe", "ship", "airship", "extendedOpen" ],
+				"access_rules" : [],
 				"sections" : [
 					{
 						"name" : "I: Marsh Locked Incentive",
@@ -241,7 +229,7 @@
 		"children" : [
 			{
 				"name" : "I: Sarda's Cave",
-				"access_rules" : [ "airship", "ruby,ship,canal", "melmondRiver,canoe,ruby" ],
+				"access_rules" : [ "ruby", "tnt", "canoe" ],
 				"sections" : [
 					{
 						"name" : "I: Sarda",
@@ -260,7 +248,7 @@
 			},
 			{
 				"name" : "I: Titan's Trove",
-				"access_rules" : [ "ruby,airship", "ruby,ship,canal", "melmondRiver,canoe,ruby" ],
+				"access_rules" : [ "ruby" ],
 				"sections" : [
 					{
 						"name" : "I: Incentive",
@@ -279,7 +267,7 @@
 			},
 			{
 				"name" : "I: Earth Cave",
-				"access_rules" : [ "airship", "ship,canal", "melmondRiver,canoe" ],
+				"access_rules" : [ "ruby", "tnt", "canoe" ],
 				"sections" : [
 					{
 						"name" : "I: Earth Orb",
@@ -303,7 +291,7 @@
 			},
 			{
 				"name" : "I: Melmond",
-				"access_rules" : [ "ship,canal,slab", "airship,slab", "melmondRiver,canoe,slab" ],
+				"access_rules" : [ "ruby,slab", "tnt,slab", "canoe,slab" ],
 				"sections" : [
 					{
 						"name" : "I: Dr Unne",
@@ -327,13 +315,7 @@
 		"children" : [
 			{
 				"name" : "I: Crescent Lake",
-				"access_rules" : [
-					"airship",
-					"openProgression,canoe",
-					"ship,canal",
-					"extendedOpen,canoe",
-					"ship,canoe"
-				],
+				"access_rules" : [ "canoe", "tnt" ],
 				"sections" : [
 					{
 						"name" : "I: Sages",
@@ -352,13 +334,7 @@
 			},
 			{
 				"name" : "I: Ice Cave",
-				"access_rules" : [
-					"airship",
-					"ship,canoe",
-					"bridge,canoe",
-					"openProgression,canoe",
-					"extendedOpen,canoe"
-				],
+				"access_rules" : [ "canoe", "airship,oxyale,chime" ],
 				"sections" : [
 					{
 						"name" : "I: Ice Cave Incentive",
@@ -377,12 +353,7 @@
 			},
 			{
 				"name" : "I: Volcano",
-				"access_rules" : [
-					"airship",
-					"openProgression,canoe",
-					"extendedOpen,canoe",
-					"ship,canoe"
-				],
+				"access_rules" : [ "ruby,canoe", "canoe,tnt", "airship,chime,oxyale"],
 				"sections" : [
 					{
 						"name" : "I: Fire Orb",
@@ -412,7 +383,7 @@
 		"children" : [
 			{
 				"name" : "I: Cardia Islands",
-				"access_rules" : [ "airship","cardiaDock,ship,canal" ],
+				"access_rules" : [],
 				"sections" : [
 					{
 						"name" : "I: Bahamut",
@@ -442,7 +413,7 @@
 		"children" : [
 			{
 				"name" : "I: Ordeals",
-				"access_rules" : [ "airship,canoe", "ship,canal,canoe", "lefeinBridge,hwyOrdeals,bridge,canoe" ],
+				"access_rules" : [ "canoe" ],
 				"sections" : [
 					{
 						"name" : "I: Incentive",
@@ -467,7 +438,7 @@
 		"children" : [
 			{
 				"name" : "I: Lefein",
-				"access_rules" : [ "airship", "lefeinRiver,canoe,ship,canal", "bridge,lefeinBridge", "hwyOrdeals,ship,canal,canoe", "northernDocks,ship,canal,hwyOrdeals" ],
+				"access_rules" : [ "airship" ],
 				"sections" : [
 					{
 						"name" : "I: Incentive",
@@ -486,7 +457,7 @@
 			},
 			{
 				"name" : "I: Gaia",
-				"access_rules" : [ "airship", "gaiaMountain,ship,canoe,lefeinRiver,canal", "gaiaMountain,northernDocks,ship,canal", "gaiaMountain,hwyOrdeals,ship,canal,canoe", "lefeinBridge,gaiaMountain,bridge" ],
+				"access_rules" : [ "airship" ],
 				"sections" : [
 					{
 						"name" : "I: Fairy",
@@ -505,7 +476,7 @@
 			},
 			{
 				"name" : "I: Sky Palace",
-				"access_rules" : [ "airship,chime,cube", "northernDocks,chime,ship,canal,cube", "lefeinBridge,bridge,hwyOrdeals,chime,cube", "lefeinRiver,hwyOrdeals,ship,canal,canoe,chime,cube", "hwyOrdeals,ship,canoe,canal,chime,cube" ],
+				"access_rules" : [ "airship,oxyale,canoe,tnt", "airship,oxyale,canoe,ruby", "airship,chime" ],
 				"sections" : [
 					{
 						"name" : "I: Air Orb",
@@ -535,7 +506,7 @@
 		"children" : [
 			{
 				"name" : "I: Waterfall",
-				"access_rules" : [ "airship,canoe", "northernDocks,ship,canal,canoe" ],
+				"access_rules" : [ "airship" ],
 				"sections" : [
 					{
 						"name" : "I: Robot",
@@ -554,7 +525,7 @@
 			},
 			{
 				"name" : "I: Sea Shrine",
-				"access_rules" : [ "airship,canoe,oxyale", "northernDocks,ship,canal,oxyale" ],
+				"access_rules" : [ "airship,oxyale,canoe,tnt", "airship,oxyale,canoe,ruby" ],
 				"sections" : [
 					{
 						"name" : "I: Water Orb",
@@ -572,7 +543,7 @@
 			},
 			{
 				"name" : "I: Sea Incentive",
-				"access_rules" : [ "airship,canoe,oxyale", "northernDocks,ship,canal,oxyale" ],
+				"access_rules" : [ "airship,oxyale,canoe,tnt", "airship,oxyale,canoe,ruby" ],
 				"sections" : [
 					{
 						"name" : "I: Sea Incentive",
