@@ -7,20 +7,20 @@
     "package_uid": "ff1_rando_mek",
     "author": "jat2980, DarkmoonEX, HaateXIII, Mister Ibis, meklin89",
     "variants": {
+        "standardNoMap": {
+            "display_name": "Standard Tracker"
+        },
         "standard": {
             "display_name": "Standard Map Tracker"
         },
-        "shardHunt": {
-            "display_name": "Shard Hunt Map Tracker"
-        },
-        "standardNoMap": {
-            "display_name": "Standard Tracker"
+        "NOverworld":{
+            "display_name": "NOverworld Map Tracker"
         },
         "shardHuntNoMap": {
             "display_name": "Shard Hunt Tracker"
         },
-        "NOverworld":{
-            "display_name": "NOverworld Map Tracker"
+        "shardHunt": {
+            "display_name": "Shard Hunt Map Tracker"
         },
         "shardHuntNOverworld":{
             "display_name": "Shard Hunt NOverworld Map Tracker"
