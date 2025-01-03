@@ -23,8 +23,8 @@
 				"map_locations" : [
 					{
 						"map" : "incentives",
-						"x" : 807,
-						"y" : 580
+						"x" : 1450,
+						"y" : 1120
 					}
 				]
 			},
@@ -42,8 +42,8 @@
 				"map_locations": [
 					{
 						"map": "incentives",
-						"x": 821,
-						"y": 543
+						"x": 1475,
+						"y": 1045
 					}
 				]
 			},
@@ -60,8 +60,8 @@
 				"map_locations" : [
 					{
 						"map" : "incentives",
-						"x" : 590,
-						"y" : 600
+						"x" : 1065,
+						"y" : 1160
 					}
 				]
 			},
@@ -81,8 +81,8 @@
 						"map_locations" : [
 							{
 								"map" : "incentives",
-								"x" : 590,
-								"y" : 555
+								"x" : 1065,
+								"y" : 1070
 							}
 						]
 					}
@@ -97,19 +97,13 @@
 						"access_rules" : [ "adamant" ],
 						"visibility_rules" : [ "fetchQuestsAreIncentive" ],
 						"hosted_item" : "smith"
-					},
-					{
-						"name" : "I: Nerrick (Vanilla Canal)",
-						"access_rules" : [ "tnt" ],
-						"visibility_rules" : [ "fetchQuestsAreIncentive" ],
-						"hosted_item" : "nerrick"
 					}
 				],
 				"map_locations" : [
 					{
 						"map" : "incentives",
-						"x" : 1220,
-						"y" : 1730
+						"x" : 585,
+						"y" : 785
 					}
 				]
 			},
@@ -127,8 +121,8 @@
 				"map_locations" : [
 					{
 						"map" : "incentives",
-						"x" : 1230,
-						"y" : 2070
+						"x" : 1030,
+						"y" : 1870
 					}
 				]
 			},
@@ -152,8 +146,8 @@
 				"map_locations" : [
 					{
 						"map" : "incentives",
-						"x" : 2040,
-						"y" : 1240
+						"x" : 990,
+						"y" : 1330
 					}
 				]
 			},
@@ -171,8 +165,8 @@
 				"map_locations" : [
 					{
 						"map" : "incentives",
-						"x" : 1640,
-						"y" : 2500
+						"x" : 1395,
+						"y" : 2000
 					}
 				]
 			},
@@ -196,8 +190,8 @@
 				"map_locations" : [
 					{
 						"map" : "incentives",
-						"x" : 2530,
-						"y" : 1650
+						"x" : 920,
+						"y" : 1545
 					}
 				]
 			},
@@ -211,6 +205,19 @@
 						"visibility_rules" : [ "marshIsIncentive" ],
 						"hosted_item" : "marsh"
 					},
+				],
+				"map_locations" : [
+					{
+						"map" : "incentives",
+						"x" : 1935,
+						"y" : 1560
+					}
+				]
+			},
+			{
+				"name" : "I: Marsh Cave",
+				"access_rules" : [ "openProgression,canoe", "ship", "airship", "extendedOpen" ],
+				"sections" : [
 					{
 						"name" : "I: Marsh Locked Incentive",
 						"access_rules" : [ "key" ],
@@ -221,8 +228,8 @@
 				"map_locations" : [
 					{
 						"map" : "incentives",
-						"x" : 1230,
-						"y" : 2680
+						"x" : 2215,
+						"y" : 1705
 					}
 				]
 			}
@@ -246,8 +253,8 @@
 				"map_locations" : [
 					{
 						"map" : "incentives",
-						"x" : 370,
-						"y" : 2150
+						"x" : 200,
+						"y" : 950
 					}
 				]
 			},
@@ -265,8 +272,8 @@
 				"map_locations" : [
 					{
 						"map" : "incentives",
-						"x" : 400,
-						"y" : 1950
+						"x" : 90,
+						"y" : 1070
 					}
 				]
 			},
@@ -289,8 +296,8 @@
 				"map_locations" : [
 					{
 						"map" : "incentives",
-						"x" : 790,
-						"y" : 2080
+						"x" : 400,
+						"y" : 815
 					}
 				]
 			},
@@ -307,8 +314,8 @@
 				"map_locations" : [
 					{
 						"map" : "incentives",
-						"x" : 970,
-						"y" : 1750
+						"x" : 480,
+						"y" : 1025
 					}
 				]
 			}
@@ -338,8 +345,8 @@
 				"map_locations" : [
 					{
 						"map" : "incentives",
-						"x" : 2630,
-						"y" : 2450
+						"x" : 790,
+						"y" : 1450
 					}
 				]
 			},
@@ -363,8 +370,8 @@
 				"map_locations" : [
 					{
 						"map" : "incentives",
-						"x" : 2380,
-						"y" : 2050
+						"x" : 685,
+						"y" : 2590
 					}
 				]
 			},
@@ -392,26 +399,8 @@
 				"map_locations" : [
 					{
 						"map" : "incentives",
-						"x" : 2280,
-						"y" : 2280
-					}
-				]
-			},
-			{
-				"name" : "I: Ryukahn Desert",
-				"access_rules" : [ "canoe,openProgression", "ship,canoe", "canoe,extendedOpen", "luffyDock,ship,canal" ],
-				"sections" : [
-					{
-						"name" : "I: Floater Turn In",
-						"access_rules" : [ "inactiveFloater" ],
-						"hosted_item" : "airship"
-					}
-				],
-				"map_locations" : [
-					{
-						"map" : "incentives",
-						"x" : 2650,
-						"y" : 2700
+						"x" : 225,
+						"y" : 2020
 					}
 				]
 			}
@@ -422,7 +411,7 @@
 		"color" : "#808080",
 		"children" : [
 			{
-				"name" : "I: Bahamut's Cave",
+				"name" : "I: Cardia Islands",
 				"access_rules" : [ "airship","cardiaDock,ship,canal" ],
 				"sections" : [
 					{
@@ -440,27 +429,8 @@
 				"map_locations" : [
 					{
 						"map" : "incentives",
-						"x" : 1200,
-						"y" : 480
-					}
-				]
-			},
-{
-				"name" : "I: Cardia Incentive",
-				"access_rules" : [ "airship","cardiaDock,ship,canal" ],
-				"sections" : [
-					{
-						"name" : "I: Cardia Incentive",
-						"visibility_rules" : [ "cardiaIsIncentive" ],
-						"access_rules" : [],
-						"hosted_item" : "cardiaIncentive"
-					}
-				],
-				"map_locations" : [
-					{
-						"map" : "incentives",
-						"x" : 1400,
-						"y" : 650
+						"x" : 2105,
+						"y" : 915
 					}
 				]
 			}
@@ -484,8 +454,8 @@
 				"map_locations" : [
 					{
 						"map" : "incentives",
-						"x" : 1570,
-						"y" : 380
+						"x" : 2395,
+						"y" : 1460
 					}
 				]
 			}
@@ -509,8 +479,8 @@
 				"map_locations" : [
 					{
 						"map" : "incentives",
-						"x" : 2850,
-						"y" : 1040
+						"x" : 1565,
+						"y" : 700
 					}
 				]
 			},
@@ -528,8 +498,8 @@
 				"map_locations" : [
 					{
 						"map" : "incentives",
-						"x" : 2650,
-						"y" : 200
+						"x" : 2775,
+						"y" : 950
 					}
 				]
 			},
@@ -552,8 +522,8 @@
 				"map_locations" : [
 					{
 						"map" : "incentives",
-						"x" : 2300,
-						"y" : 600
+						"x" : 2445,
+						"y" : 2190
 					}
 				]
 			}
@@ -577,8 +547,8 @@
 				"map_locations" : [
 					{
 						"map" : "incentives",
-						"x" : 700,
-						"y" : 380
+						"x" : 1395,
+						"y" : 935
 					}
 				]
 			},
@@ -590,7 +560,20 @@
 						"name" : "I: Water Orb",
 						"access_rules" : [],
 						"hosted_item" : "waterorblit"
-					},
+					}
+				],
+				"map_locations" : [
+					{
+						"map" : "incentives",
+						"x" : 1850,
+						"y" : 2265
+					}
+				]
+			},
+			{
+				"name" : "I: Sea Incentive",
+				"access_rules" : [ "airship,canoe,oxyale", "northernDocks,ship,canal,oxyale" ],
+				"sections" : [
 					{
 						"name" : "I: Sea Incentive",
 						"access_rules" : [],
@@ -601,8 +584,8 @@
 				"map_locations" : [
 					{
 						"map" : "incentives",
-						"x" : 740,
-						"y" : 660
+						"x" : 2315,
+						"y" : 2665
 					}
 				]
 			}
