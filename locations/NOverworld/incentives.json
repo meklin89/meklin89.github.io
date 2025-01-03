@@ -109,7 +109,7 @@
 			},
 			{
 				"name" : "I: North West Castle",
-				"access_rules" : [ "openProgression,canoe", "ship", "floater", "extendedOpen" ],
+				"access_rules" : [],
 				"sections" : [
 					{
 						"name" : "I: Astos",
@@ -147,7 +147,7 @@
 			},
 			{
 				"name" : "I: Elf Castle",
-				"access_rules" : [ "openProgression,canoe", "ship", "floater", "extendedOpen" ],
+				"access_rules" : [],
 				"sections" : [
 					{
 						"name" : "I: Elf Prince",
@@ -353,7 +353,7 @@
 			},
 			{
 				"name" : "I: Volcano",
-				"access_rules" : [ "ruby,canoe", "canoe,tnt", "floater,chime,oxyale"],
+				"access_rules" : [ "canoe", "floater,chime,oxyale"],
 				"sections" : [
 					{
 						"name" : "I: Fire Orb",
@@ -476,7 +476,7 @@
 			},
 			{
 				"name" : "I: Sky Palace",
-				"access_rules" : [ "floater,oxyale,canoe,tnt,cube", "floater,oxyale,canoe,ruby,cube", "floater,chime,cube" ],
+				"access_rules" : [ "floater,oxyale,canoe,cube", "floater,chime,cube" ],
 				"sections" : [
 					{
 						"name" : "I: Air Orb",
@@ -525,7 +525,7 @@
 			},
 			{
 				"name" : "I: Sea Shrine",
-				"access_rules" : [ "floater,oxyale,canoe,tnt", "floater,oxyale,canoe,ruby" ],
+				"access_rules" : [ "floater,oxyale,canoe", "floater,chime" ],
 				"sections" : [
 					{
 						"name" : "I: Water Orb",
@@ -543,7 +543,7 @@
 			},
 			{
 				"name" : "I: Sea Incentive",
-				"access_rules" : [ "floater,oxyale,canoe,tnt", "floater,oxyale,canoe,ruby" ],
+				"access_rules" : [ "floater,oxyale,canoe", "floater,chime" ],
 				"sections" : [
 					{
 						"name" : "I: Sea Incentive",
