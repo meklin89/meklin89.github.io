@@ -109,7 +109,7 @@
 			},
 			{
 				"name" : "I: North West Castle",
-				"access_rules" : [ "openProgression,canoe", "ship", "airship", "extendedOpen" ],
+				"access_rules" : [ "openProgression,canoe", "ship", "floater", "extendedOpen" ],
 				"sections" : [
 					{
 						"name" : "I: Astos",
@@ -147,7 +147,7 @@
 			},
 			{
 				"name" : "I: Elf Castle",
-				"access_rules" : [ "openProgression,canoe", "ship", "airship", "extendedOpen" ],
+				"access_rules" : [ "openProgression,canoe", "ship", "floater", "extendedOpen" ],
 				"sections" : [
 					{
 						"name" : "I: Elf Prince",
@@ -334,7 +334,7 @@
 			},
 			{
 				"name" : "I: Ice Cave",
-				"access_rules" : [ "canoe", "airship,oxyale,chime" ],
+				"access_rules" : [ "canoe", "floater,oxyale,chime" ],
 				"sections" : [
 					{
 						"name" : "I: Ice Cave Incentive",
@@ -353,7 +353,7 @@
 			},
 			{
 				"name" : "I: Volcano",
-				"access_rules" : [ "ruby,canoe", "canoe,tnt", "airship,chime,oxyale"],
+				"access_rules" : [ "ruby,canoe", "canoe,tnt", "floater,chime,oxyale"],
 				"sections" : [
 					{
 						"name" : "I: Fire Orb",
@@ -438,7 +438,7 @@
 		"children" : [
 			{
 				"name" : "I: Lefein",
-				"access_rules" : [ "airship" ],
+				"access_rules" : [ "floater" ],
 				"sections" : [
 					{
 						"name" : "I: Incentive",
@@ -457,7 +457,7 @@
 			},
 			{
 				"name" : "I: Gaia",
-				"access_rules" : [ "airship" ],
+				"access_rules" : [ "floater" ],
 				"sections" : [
 					{
 						"name" : "I: Fairy",
@@ -476,7 +476,7 @@
 			},
 			{
 				"name" : "I: Sky Palace",
-				"access_rules" : [ "airship,oxyale,canoe,tnt", "airship,oxyale,canoe,ruby", "airship,chime" ],
+				"access_rules" : [ "floater,oxyale,canoe,tnt,cube", "floater,oxyale,canoe,ruby,cube", "floater,chime,cube" ],
 				"sections" : [
 					{
 						"name" : "I: Air Orb",
@@ -506,7 +506,7 @@
 		"children" : [
 			{
 				"name" : "I: Waterfall",
-				"access_rules" : [ "airship" ],
+				"access_rules" : [ "floater" ],
 				"sections" : [
 					{
 						"name" : "I: Robot",
@@ -525,7 +525,7 @@
 			},
 			{
 				"name" : "I: Sea Shrine",
-				"access_rules" : [ "airship,oxyale,canoe,tnt", "airship,oxyale,canoe,ruby" ],
+				"access_rules" : [ "floater,oxyale,canoe,tnt", "floater,oxyale,canoe,ruby" ],
 				"sections" : [
 					{
 						"name" : "I: Water Orb",
@@ -543,7 +543,7 @@
 			},
 			{
 				"name" : "I: Sea Incentive",
-				"access_rules" : [ "airship,oxyale,canoe,tnt", "airship,oxyale,canoe,ruby" ],
+				"access_rules" : [ "floater,oxyale,canoe,tnt", "floater,oxyale,canoe,ruby" ],
 				"sections" : [
 					{
 						"name" : "I: Sea Incentive",
