@@ -42,8 +42,19 @@
                     ]
                 },
                 {
-                    "name": "Shard Hunt Tracker",
+                    "name": "NOverworld Tracker",
                     "flags": [
+                        "map",
+                        "pins",
+                        "chathud",
+                        "autotracker"
+                    ]
+                },
+                {
+                    "name": "Shard Hunt NOverworld Tracker",
+                    "flags": [
+                        "map",
+                        "pins",
                         "chathud",
                         "autotracker"
                     ]
