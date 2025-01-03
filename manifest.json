@@ -18,6 +18,12 @@
         },
         "shardHuntNoMap": {
             "display_name": "Shard Hunt Tracker"
+        },
+        "NOverworld":{
+            "display_name": "NOverworld Map Tracker"
+        },
+        "shardHuntNOverworld":{
+            "display_name": "Shard Hunt NOverworld Map Tracker"
         }
     }
 }
