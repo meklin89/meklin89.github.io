@@ -29,7 +29,7 @@
 				]
 			},
 			{
-				"name": I: Coneria Castle Locked",
+				"name": "I: Coneria Castle Locked",
 				"access_rules": [ "key" ],
 				"sections": [
 					{
