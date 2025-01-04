@@ -58,7 +58,7 @@
                     ]
                 },
                 {
-                    "name": "Shard Hunt NOverworld Map Tracker",
+                    "name": "NOverworld Shard Hunt Map Tracker",
                     "flags": [
                         "map",
                         "pins",
