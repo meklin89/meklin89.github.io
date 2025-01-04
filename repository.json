@@ -8,7 +8,6 @@
             "flags": [
                 "map",
                 "pins",
-                "chathud",
                 "autotracker"  
             ],
             "version": "1.5.0.1",
@@ -19,7 +18,6 @@
                 {
                     "name": "Standard Tracker",
                     "flags": [
-                        "chathud",
                         "autotracker"
                     ]
                 },
@@ -28,14 +26,12 @@
                     "flags": [
                         "map",
                         "pins",
-                        "chathud",
                         "autotracker"
                     ]
                 },
                 {
                     "name": "Shard Hunt Tracker",
                     "flags": [
-                        "chathud",
                         "autotracker"
                     ]
                 },
@@ -44,7 +40,6 @@
                     "flags": [
                         "map",
                         "pins",
-                        "chathud",
                         "autotracker"
                     ]
                 },
@@ -53,7 +48,6 @@
                     "flags": [
                         "map",
                         "pins",
-                        "chathud",
                         "autotracker"
                     ]
                 },
@@ -62,7 +56,6 @@
                     "flags": [
                         "map",
                         "pins",
-                        "chathud",
                         "autotracker"
                     ]
                 }
