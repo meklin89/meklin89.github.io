@@ -67,8 +67,6 @@ local skyIncentive = Tracker:FindObjectForCode("skyIsIncentive")
 skyIncentive.Active = true
 local coneriaLockedIncentive = Tracker:FindObjectForCode("coneriaLockedIsIncentive")
 coneriaLockedIncentive.Active = true
-local bridgeItem = Tracker:FindObjectForCode("bridge")
-bridgeItem.Active = true
 
 
 Tracker.DisplayAllLocations = PREFERENCE_DISPLAY_ALL_LOCATIONS
