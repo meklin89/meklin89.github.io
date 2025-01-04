@@ -392,16 +392,21 @@
 					},
 					{
 						"name" : "I: Cardia Incentive",
-						"visibility_rules" : [ "BahamutHoard" ],
+						"visibility_rules" : [ "cardiaIsIncentive" ],
 						"access_rules" : [],
 						"hosted_item" : "cardiaIncentive"
+					},
+					{
+						"name": "I: Shop Item",
+						"access_rules": [],
+						"hosted_item": "shopItem"
 					}
 				],
 				"map_locations" : [
 					{
 						"map" : "incentives",
-						"x" : 2115,
-						"y" : 915
+						"x" : 2150,
+						"y" : 900
 					}
 				]
 			}
