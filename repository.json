@@ -17,6 +17,13 @@
             "required_app_version": "2.3.8.19",
             "variants": [
                 {
+                    "name": "Standard Tracker",
+                    "flags": [
+                        "chathud",
+                        "autotracker"
+                    ]
+                },
+                {
                     "name": "Standard Map Tracker",
                     "flags": [
                         "map",
@@ -26,7 +33,7 @@
                     ]
                 },
                 {
-                    "name": "Standard Tracker",
+                    "name": "Shard Hunt Tracker",
                     "flags": [
                         "chathud",
                         "autotracker"
