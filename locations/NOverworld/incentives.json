@@ -382,31 +382,58 @@
 		"color" : "#808080",
 		"children" : [
 			{
-				"name" : "I: Cardia Islands",
+				"name" : "I: Bahamut",
 				"access_rules" : [],
 				"sections" : [
 					{
 						"name" : "I: Bahamut",
 						"access_rules" : [ "tail" ],
 						"hosted_item" : "bahamut"
-					},
-					{
-						"name" : "I: Cardia Incentive",
-						"visibility_rules" : [ "cardiaIsIncentive" ],
-						"access_rules" : [],
-						"hosted_item" : "cardiaIncentive"
-					},
-					{
-						"name": "I: Shop Item",
-						"access_rules": [],
-						"hosted_item": "shopItem"
 					}
 				],
 				"map_locations" : [
 					{
 						"map" : "incentives",
-						"x" : 2150,
-						"y" : 900
+						"x" : 2225,
+						"y" : 800
+					}
+				]
+			},
+			{
+				"name": "I: Cardia Incentive",
+				"access_rules": [],
+				"sections": [
+					{
+						"name" : "I: Cardia Incentive",
+						"visibility_rules" : [ "cardiaIsIncentive" ],
+						"access_rules" : [],
+						"hosted_item" : "cardiaIncentive"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "incentives",
+						"x": 2225,
+						"y": 888
+					}
+				]
+			},
+			{
+				"name": "I: Shop Item",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "I: Shop Item",
+						"access_rules": [],
+						"hosted_item": "shopItem"
+					}
+
+				],
+				"map_locations": [
+					{
+						"map": "incentives",
+						"x": 2225,
+						"y": 965
 					}
 				]
 			}
