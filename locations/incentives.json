@@ -592,6 +592,24 @@
 						"y" : 660
 					}
 				]
+			},
+			{
+				"name": "I: Shop Item",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "I: Shop Item",
+						"access_rules": [],
+						"hosted_item": "shopItem"
+					}
+				],
+				"map_locations": [
+					{
+						"map: "incentives",
+						"x": 310,
+						"y": 460
+					}
+				]
 			}
 		]
 	}
