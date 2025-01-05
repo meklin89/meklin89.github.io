@@ -978,7 +978,7 @@
                 ],
                 "map_locations": [
                     {
-                        "map: "locations",
+                        "map": "locations",
                         "x": 310,
                         "y": 460
                     }
