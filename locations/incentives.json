@@ -605,7 +605,7 @@
 				],
 				"map_locations": [
 					{
-						"map: "incentives",
+						"map": "incentives",
 						"x": 310,
 						"y": 460
 					}
