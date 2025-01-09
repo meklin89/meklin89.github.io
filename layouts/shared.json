@@ -31,7 +31,7 @@
         "item_margin": "1,2",
         "rows": [
             [ "extendedOpen", "northernDocks", "luffyDock", "cardiaDock", "lefeinRiver"  ],
-            [ "lefeinBridge", "gaiaMountain", "hwyOrdeals", "melmondRiver", "" ],
+            [ "lefeinBridge", "gaiaMountain", "hwyOrdeals", "melmondRiver" ],
             [ "npcsAreIncentive", "iceCaveIsIncentive", "ordealsIsIncentive", "marshIsIncentive", "titansTroveIsIncentive" ],
             [ "fetchQuestsAreIncentive", "earthIsIncentive", "volcanoIsIncentive", "seaIsIncentive", "skyIsIncentive" ],
             [ "loose", "coneriaLockedIsIncentive", "marshLockedIsIncentive", "cardiaIsIncentive" ]
