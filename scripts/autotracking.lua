@@ -421,7 +421,7 @@ function updateItemsFromMemorySegment(segment)
 
     end
     updateLocationsFromMemorySegmentCorridor(segment)
-    if Tracker.ActiveVariantUID == "shardHunt" or Tracker.ActiveVariantUID == "shardHuntNoMap" then
+    if Tracker.ActiveVariantUID == "shardHunt" or Tracker.ActiveVariantUID == "shardHuntNoMap" or Tracker.ActiveVariantUID == "shardHuntNOverworld" then
       updateShardsFromMemorySegment(segment)
     end
 end
