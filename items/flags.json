@@ -28,7 +28,7 @@
 		"disabled_img" : "images/flags/noLuffyDock.png"
     },
     {
-        "name" : "Cardia Island (main) Dock",
+        "name" : "Bahamut Cardia Dock",
         "type" : "toggle",
         "img" : "images/flags/cardiaDock.png",
         "codes" : "cardiaDock",
