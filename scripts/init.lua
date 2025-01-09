@@ -45,7 +45,7 @@ elseif Tracker.ActiveVariantUID == "shardHuntNOverworld" then
   shardsRequired.CurrentStage = 8
 elseif Tracker.ActiveVariantUID == "NOverworld" then
   Tracker:AddLayouts("NOverworld/tracker.json")
-  Tracker:AddLayouts("standardNoMap/broadcastNoMap.json")
+  Tracker:AddLayouts("layouts/standard_broadcast.json")
 elseif Tracker.ActiveVariantUID == "standardNoMap" then
   Tracker:AddLayouts("standardNoMap/tracker.json")
   Tracker:AddLayouts("standardNoMap/broadcastNoMap.json")
